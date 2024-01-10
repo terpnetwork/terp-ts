@@ -35,11 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Xiti922/terp-network"
+    "url": "https://github.com/terpnetwork/terp-ts"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Xiti922/terp-network/issues"
+    "url": "https://github.com/terpnetwork/terp-js/issues"
   },
   "devDependencies": {
     "@cosmology/telescope": "^1.0.1",

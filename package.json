@@ -1,5 +1,5 @@
 {
-  "name": "juno-network",
+  "name": "terp-network",
   "version": "0.0.1",
   "publishConfig": {
     "access": "restricted"
@@ -33,6 +33,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/CosmosContracts/typescript"
+    "url": "https://github.com/terpnetwork/terp-ts"
   }
 }

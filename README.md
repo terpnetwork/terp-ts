@@ -8,7 +8,7 @@
   <!-- <a href="https://github.com/CosmosContracts/typescript/actions/workflows/run-tests.yml">
     <img height="20" src="https://github.com/CosmosContracts/typescript/actions/workflows/run-tests.yml/badge.svg" />
   </a> -->
-   <a href="https://github.com/CosmosContracts/typescript/blob/main/LICENSE"><img height="20" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+   <a href="https://github.com/terpnetwork/terp-ts/blob/main/LICENSE"><img height="20" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
 Typescript libraries for the Terp ecosystem.
@@ -19,13 +19,13 @@ Typescript libraries for the Terp ecosystem.
 
 TS library with Cosmos SDK and terpSwap smart contracts.
 
-#### [@terp-network/swap](packages/swap/README.md)
+<!-- #### [@terp-network/swap](packages/swap/README.md)
 
-TS library with terpSwap smart contracts.
+TS library with terpSwap smart contracts. -->
 
-#### [@terp-network/assets](packages/assets/README.md)
+<!-- #### [@terp-network/assets](packages/assets/README.md)
 
-Chain Registry info for terp, including asset lists.
+Chain Registry info for terp, including asset lists. -->
 
 ## Developing
 
@@ -33,7 +33,7 @@ Checkout the repository and bootstrap the yarn workspace:
 
 ```sh
 # Clone the repo.
-git clone https://github.com/CosmosContracts/typescript
+git clone https://github.com/terpnetwork/terp-ts
 yarn
 yarn bootstrap
 ```
